@@ -12,6 +12,8 @@ Each folder covers a different ML algorithm with examples.
 | **Linear Regression** | Predicting continuous values       |
 | **Logistic Regression** | Binary classification             |
 | **Decision Tree**     | Classification & regression        |
+| **Approaching Projects** | How to approach ML projects on kaggle |
+| **Gradient Boosting with XGBoost** | How to use XGBoost |
 
 ---
 
